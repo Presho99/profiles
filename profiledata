@@ -23,14 +23,14 @@
       "age": 26,
       "gender": "Male",
       "location": "Nairobi",
-      "avatar": "https://images.pexels.com/photos/3800499/pexels-photo-3800499.jpeg?auto=compress&cs=tinysrgb&w=400",
-      "bio": "Living life one swipe at a time. Swipe right if you can keep up!",
+      "avatar": "https://images.pexels.com/photos/2876486/pexels-photo-2876486.png?auto=compress&cs=tinysrgb&w=400",
+      "bio": "Just a guy with a big heart and a bigger Netflix queue. ",
       "interests": ["Gaming", "Gardening", "Boxing"],
   
       "matchPreferences": {
-        "minAge": 25,
-        "maxAge": 35,
-        "genderPreference": "Male"
+        "minAge": 20,
+        "maxAge": 22,
+        "genderPreference": "Female"
       }
     },
     {
@@ -67,18 +67,18 @@
     },
 {
       "id": 5,
-      "name": "Hanya Gihara",
-      "age": 26,
+      "name": "Mark Ben",
+      "age": 28,
       "gender": "Male",
       "location": "Nairobi",
-      "avatar": "https://images.pexels.com/photos/3800499/pexels-photo-3800499.jpeg?auto=compress&cs=tinysrgb&w=400",
-      "bio": "Living life one swipe at a time. Swipe right if you can keep up!",
+      "avatar": "https://images.pexels.com/photos/936119/pexels-photo-936119.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "bio":"Warning: Fluent in sarcasm. If you can handle my wit, we might just get along.",
       "interests": ["Gaming", "Gardening", "Boxing"],
   
       "matchPreferences": {
         "minAge": 25,
-        "maxAge": 35,
-        "genderPreference": "Male"
+        "maxAge": 30,
+        "genderPreference": "Female"
       }
     },
 {
@@ -148,18 +148,18 @@
 
 {
       "id": 10,
-      "name": "Hanya Gihara",
-      "age": 26,
+      "name": "Dan Simba",
+      "age": 29,
       "gender": "Male",
       "location": "Nairobi",
-      "avatar": "https://images.pexels.com/photos/3800499/pexels-photo-3800499.jpeg?auto=compress&cs=tinysrgb&w=400",
-      "bio": "Living life one swipe at a time. Swipe right if you can keep up!",
+      "avatar": "https://images.pexels.com/photos/904332/pexels-photo-904332.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "bio": "I'm not good at taking selfies, but I'm great at taking you out for a fun time. ",
       "interests": ["Gaming", "Gardening", "Boxing"],
   
       "matchPreferences": {
-        "minAge": 25,
-        "maxAge": 35,
-        "genderPreference": "Male"
+        "minAge": 20,
+        "maxAge": 25,
+        "genderPreference": "Female"
       }
     },
 
@@ -250,18 +250,18 @@
 
 {
       "id": 16,
-      "name": "Hanya Gihara",
-      "age": 26,
+      "name": "David Will",
+      "age": 19,
       "gender": "Male",
       "location": "Nairobi",
-      "avatar": "https://images.pexels.com/photos/3800499/pexels-photo-3800499.jpeg?auto=compress&cs=tinysrgb&w=400",
-      "bio": "Living life one swipe at a time. Swipe right if you can keep up!",
+      "avatar": "https://images.pexels.com/photos/1405963/pexels-photo-1405963.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "bio": "Outdoorsy introvert who enjoys camping, stargazing, and deep conversations. ",
       "interests": ["Gaming", "Gardening", "Boxing"],
   
       "matchPreferences": {
         "minAge": 25,
         "maxAge": 35,
-        "genderPreference": "Male"
+        "genderPreference": "Female"
       }
     },
 
@@ -318,17 +318,17 @@
 
 {
       "id": 20,
-      "name": "Hanya Gihara",
-      "age": 26,
+      "name": "Ahmed Oyoo",
+      "age": 22,
       "gender": "Male",
       "location": "Nairobi",
-      "avatar": "https://images.pexels.com/photos/3800499/pexels-photo-3800499.jpeg?auto=compress&cs=tinysrgb&w=400",
-      "bio": "Living life one swipe at a time. Swipe right if you can keep up!",
+      "avatar": "https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "bio": "5'11', because apparently, that matters.",
       "interests": ["Gaming", "Gardening", "Boxing"],
   
       "matchPreferences": {
-        "minAge": 25,
-        "maxAge": 35,
+        "minAge": 20,
+        "maxAge": 22,
         "genderPreference": "Male"
       }
     },
