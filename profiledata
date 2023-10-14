@@ -387,17 +387,17 @@
 {
       "id": 24,
       "name": "Hanya Gihara",
-      "age": 26,
+      "age": 33,
       "gender": "Male",
       "location": "Nairobi",
-      "avatar": "https://images.pexels.com/photos/3800499/pexels-photo-3800499.jpeg?auto=compress&cs=tinysrgb&w=400",
-      "bio": "Living life one swipe at a time. Swipe right if you can keep up!",
+      "avatar": "https://images.pexels.com/photos/2955376/pexels-photo-2955376.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "bio": "Film buff with a penchant for dad jokes. If you can handle my puns, we'll get along just fine",
       "interests": ["Gaming", "Gardening", "Boxing"],
   
       "matchPreferences": {
         "minAge": 25,
         "maxAge": 35,
-        "genderPreference": "Male"
+        "genderPreference": "Female"
       }
     },
 
@@ -437,18 +437,18 @@
 
 {
       "id": 27,
-      "name": "Hanya Gihara",
-      "age": 26,
+      "name": "Ronald Waka",
+      "age": 28,
       "gender": "Male",
       "location": "Nairobi",
-      "avatar": "https://images.pexels.com/photos/3800499/pexels-photo-3800499.jpeg?auto=compress&cs=tinysrgb&w=400",
-      "bio": "Living life one swipe at a time. Swipe right if you can keep up!",
+      "avatar": "https://images.pexels.com/photos/3656518/pexels-photo-3656518.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "bio": "Not a superhero, but I can save you from awkward silences and bad first dates. ",
       "interests": ["Gaming", "Gardening", "Boxing"],
   
       "matchPreferences": {
-        "minAge": 25,
-        "maxAge": 35,
-        "genderPreference": "Male"
+        "minAge": 23,
+        "maxAge": 29,
+        "genderPreference": "Female"
       }
     },
 
@@ -543,7 +543,7 @@
       "age": 56,
       "gender": "Male",
       "location": "Nairobi",
-      "avatar": "https://images.pexels.com/photos/3800499/pexels-photo-3800499.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "avatar": "https://images.pexels.com/photos/3031391/pexels-photo-3031391.jpeg?auto=compress&cs=tinysrgb&w=400,
       "bio": "Retired but not tired, seeking a partner in crime for shuffleboard and stargazing.",
       "interests": ["Gaming", "Gardening", "Boxing"],
   
@@ -556,18 +556,18 @@
 
 {
       "id": 34,
-      "name": "Hanya Gihara",
-      "age": 26,
+      "name": "Elija Masira",
+      "age": 31,
       "gender": "Male",
       "location": "Nairobi",
-      "avatar": "https://images.pexels.com/photos/3800499/pexels-photo-3800499.jpeg?auto=compress&cs=tinysrgb&w=400",
-      "bio": "Living life one swipe at a time. Swipe right if you can keep up!",
+      "avatar": "https://images.pexels.com/photos/936043/pexels-photo-936043.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "bio": "Aspiring adventurer seeking someone to share in my epic quest for the perfect pizza slice. ",
       "interests": ["Gaming", "Gardening", "Boxing"],
   
       "matchPreferences": {
-        "minAge": 25,
-        "maxAge": 35,
-        "genderPreference": "Male"
+        "minAge": 22,
+        "maxAge": 30,
+        "genderPreference": "Female"
       }
     },
 
@@ -578,7 +578,7 @@
       "gender": "Female",
       "location": "Nairobi",
       "avatar": "https://images.pexels.com/photos/3800499/pexels-photo-3800499.jpeg?auto=compress&cs=tinysrgb&w=400",
-      "bio": "Living life one swipe at a time. Swipe right if you can keep up!",
+      "bio": "Aspiring adventurer seeking someone to share in my epic quest for the perfect pizza slice. ",
       "interests": ["Gaming", "Gardening", "Boxing"],
   
       "matchPreferences": {
